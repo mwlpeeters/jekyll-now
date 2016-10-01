@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there, I am Maarten Peeters and I love programming in Microsoft C#. I started programming at the age of 15 using an old 8086 with DOS 3 dot something. At first using GW Basic and Quick Basic later on using Visual Basic 1. In my professional life I have been using Delphi, Visual Basic 6 and in the last decade C#.
 
-### More Information
+In all those years that I've been programming I learned one important thing about myself: I'm crazy lazy! And this is a good thing! Because I will spend a lot of time reading about programming and building software to eliminate any repetitive work I run into. This is also something I've learned throughout the years, repetitive work isn't fun and the chance of introducing errors is vast. 
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+When not busy working on awesome projects at a great company in the Netherlands, called <a href="https://www.qdelft.nl/">QDelft</a>, I can be found spending time with my wife and kid, playing with Technical Lego or figuring out programming stuff.
