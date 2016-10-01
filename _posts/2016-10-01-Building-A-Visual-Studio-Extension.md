@@ -7,9 +7,9 @@ title: Building a Visual Studio Extension
 In the next couple of months I will try to create some blog posts on this site about building Visual Studio Extensions for Visual Studio 2015.
 
 So why would you create a Visual Studio extension? Well good question, I can only tell you why I would create an extension:
-* To automate anything that is repetitive
-* To add features I'm missing (or simply cannot find)
-* Just because I can 
+- To automate anything that is repetitive
+- To add features I'm missing (or simply cannot find)
+- Just because it can 
 
 # Prerequisites
 
